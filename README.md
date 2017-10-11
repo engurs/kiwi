@@ -1,4 +1,5 @@
-![kiwi_gif](https://user-images.githubusercontent.com/22552968/31449399-17868aac-aea7-11e7-800a-d7e450315c29.gif)
+![kiwi_gif](https://user-images.githubusercontent.com/22552968/31449587-9403ff38-aea7-11e7-90e2-de25b2bf34b5.gif)
+
 
 
 # Fullstack Developer Job Application Assignment
